@@ -8,19 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Visiting Masters student at the Indian Institute of Technology, Bombay, India, affiliated with the Indian Institute of Science Education and Research, Bhopal, India. I did my undergraduation from IISER Bhopal, where I majored in Physics with a minor in Data Science.
+## About Me
 
-For my Masters thesis project I am working on Quantum algorithms aimed at solving combinatorial optimization problems. One of the specific problems I am currently working on involves factoring using QAOA. 
+I’m a physicist working in quantum computing, interested in both the algorithms that could make quantum computers useful and the fundamental ideas that make them possible. I studied Physics, with a minor in Data Science, at the Indian Institute of Science Education and Research (IISER) Bhopal, and I currently work as a Quantum Algorithms Researcher at QpiAI.
 
-Throughout my academic journey, I've had the privilege of exploring a wide spectrum of physics and computational courses. This exposure has fueled my enthusiasm for a research career in this interdisciplinary field.
+At QpiAI, I develop and investigate hybrid quantum-classical algorithms, including sampling-based quantum diagonalization methods and variational algorithms such as QAOA. My work spans algorithm design, implementation, and computational benchmarking. Working through these stages has made me appreciate the gap between an algorithm on paper and one that works in practice, where circuit design, classical post-processing, and hardware constraints can substantially shape its performance.
 
-I thrive on tackling challenges through computational techniques, whether it's applying quantum computing skills to address real-world issues or leveraging data science to solve complex physics problems. My passion lies in harnessing the power of technology to create a meaningful impact.
+I’m drawn to the broader questions surrounding quantum computation: how we design better algorithms, how we protect quantum information from noise, and what it takes to build reliable, scalable quantum computers. These interests lead me toward areas such as quantum error correction, fault-tolerant computing, quantum complexity, architecture, and cryptography. More than any single application, I enjoy exploring the ideas behind the field and following interesting questions across theory and implementation.
 
+My approach to learning is hands-on. I like to understand the underlying idea, work through its mathematical structure, and then implement it to see what holds up in practice. Moving between physical intuition, formal reasoning, and code helps me build a deeper understanding of unfamiliar concepts. I find that process—turning an abstract idea into something I can test, question, and refine—one of the most rewarding parts of research.
 
-### My Research Interests:
-1. Quantum Information Science
-2. Quantum Algorithms
-3. Quantum cryptography
-4. Computational Physics
-
-Welcome to my personal website :)
+I’m always happy to connect with people exploring interesting questions in quantum computing or in any fields, exchange ideas, and find opportunities to collaborate.
