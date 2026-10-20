@@ -23,7 +23,7 @@ Investigated and benchmarked quantum error mitigation techniques for variational
 
 ### 3. Benchmarking Quantum Algorithms on QpiAI Quantum Hardware | QpiAI
 
-Designed and executed benchmarking experiments using quantum circuits and algorithms including GHZ states, W states, the Deutsch–Jozsa algorithm, and the Variational Quantum Eigensolver (VQE). Explored the execution and performance of these workloads on IBM Quantum hardware as part of evaluating practical quantum computing workflows.
+Designed and executed benchmarking experiments using quantum circuits and algorithms including GHZ states, W states, the Deutsch–Jozsa algorithm, and the Variational Quantum Eigensolver (VQE). Explored the execution and performance of these workloads on QpiAI Quantum hardware as part of evaluating practical quantum computing workflows.
 
 ### 4. Variational Quantum Eigensolver and QAOA for Molecular Ground States | QpiAI
 
