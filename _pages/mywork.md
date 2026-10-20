@@ -13,13 +13,11 @@ author_profile: true
 ### 1. Quantum Approximate Optimization Algorithm (QAOA) for Integer Factorization | IIT Bombay
 
 Conducted master's thesis research on QAOA-based approaches to integer factorization. Implemented and benchmarked different QAOA variants using Qiskit, investigating their performance and exploring algorithmic modifications to improve factorization outcomes. This work led to the study of Variational Quantum Factorization (VQF) using different QAOA variations, accepted for presentation at COMSNETS 2025.
-# Publications
-
-- [Variational Quantum Factoring (VQF) using QAOA variations](https://ieeexplore.ieee.org/abstract/document/10885675/) — COMSNETS 2025, IEEE Xplore.
+[Variational Quantum Factoring (VQF) using QAOA variations](https://ieeexplore.ieee.org/abstract/document/10885675/) — COMSNETS 2025, IEEE Xplore.
 
 ### 2. Quantum Error Mitigation for Variational Algorithms | QpiAI
 
-Investigated and benchmarked quantum error mitigation techniques for variational quantum algorithms. Worked with measurement error mitigation and zero-noise extrapolation, studying approaches for reducing the impact of hardware noise on quantum computation.
+Investigated and benchmarked quantum error mitigation techniques. Evaluated Measurement Error Mitigation (MEM), Zero-Noise Extrapolation (ZNE), and Pauli twirling on noisy multi-qubit GHZ circuits. Analyzed readout, depolarizing, dephasing, amplitude damping, and coherent gate errors using expectation values and state fidelity.
 
 ### 3. Benchmarking Quantum Algorithms on QpiAI Quantum Hardware | QpiAI
 
@@ -27,7 +25,7 @@ Designed and executed benchmarking experiments using quantum circuits and algori
 
 ### 4. Variational Quantum Eigensolver and QAOA for Molecular Ground States | QpiAI
 
-Implemented VQE and QAOA approaches for estimating molecular ground-state energies, with a focus on the H₂ molecule. Investigated different algorithmic configurations and developed an improved QAOA variant aimed at enhancing energy-estimation accuracy.
+Implemented and benchmarked VQE and QAOA for estimating the ground-state energy of the H₂ molecule. Explored different algorithm configurations and implemented a QAOA variant for the chain formulation of the problem.
 
 ### 5. Quantum-Assisted Protein Folding Using the HP Lattice Model | QpiAI
 
