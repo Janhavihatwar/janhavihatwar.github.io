@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /courses/
+permalink: /Talks and Guest lectures/
 author_profile: true
 ---
 
