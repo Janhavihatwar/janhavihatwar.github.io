@@ -12,8 +12,7 @@ author_profile: true
 
 ### 1. Quantum Approximate Optimization Algorithm (QAOA) for Integer Factorization | IIT Bombay
 
-Conducted master's thesis research on QAOA-based approaches to integer factorization. Implemented and benchmarked different QAOA variants using Qiskit, investigating their performance and exploring algorithmic modifications to improve factorization outcomes. This work led to the study of Variational Quantum Factorization (VQF) using different QAOA variations, accepted for presentation at COMSNETS 2025.
-[Variational Quantum Factoring (VQF) using QAOA variations](https://ieeexplore.ieee.org/abstract/document/10885675/) — COMSNETS 2025, IEEE Xplore.
+Conducted master's thesis research on QAOA-based approaches to integer factorization. Implemented and benchmarked different QAOA variants using Qiskit, investigating their performance and exploring algorithmic modifications to improve factorization outcomes. This work led to the study of [Variational Quantum Factoring (VQF) using QAOA variations](https://ieeexplore.ieee.org/abstract/document/10885675/) — COMSNETS 2025, IEEE Xplore.
 
 ### 2. Quantum Error Mitigation for Variational Algorithms | QpiAI
 
